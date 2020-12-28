@@ -1,1 +1,5 @@
 **/LJSpeech
+env
+**/model
+**/output
+**/data
